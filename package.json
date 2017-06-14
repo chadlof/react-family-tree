@@ -1,0 +1,25 @@
+{
+  "name": "react-family-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^2.4.3",
+    "react": "^15.6.0",
+    "react-dom": "^15.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadlof/react-family-tree.git"
+  },
+  "author": "chadlof@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadlof/react-family-tree/issues"
+  },
+  "homepage": "https://github.com/chadlof/react-family-tree#readme"
+}
