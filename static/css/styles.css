@@ -1,0 +1,104 @@
+a, a:visited {
+    color: red;
+    text-decoration: none;
+}
+body{
+     background-image: url(../img/tree1.jpg);
+     height: 1000px;
+}
+h1{
+    text-align: center;
+    font-size:  32px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+img {
+    align-self: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.topSection{
+    
+    height: 230px;
+}
+
+.familyMember{
+    width: 30%;
+     float: left;
+    
+}
+.married{
+    width: 20%;
+     float: left;
+     margin-left: 10%;
+     margin-top: 100px;
+}
+.spouse{
+    width: 28%;
+    float: right;
+}
+.outerImgBox{
+    padding-left: 30%;
+}
+.imgBox{
+    padding-left: 0%;
+}
+.bio{
+    margin: 10%;
+}
+
+
+.treeImgBox{
+    padding-left: 30%;
+}
+.treeRow1{
+    width: 100%;
+    height: 200px;
+    margin: 5%;
+    padding-left: 14%;
+}
+.treeRow2{
+    width: 100%;
+    height: 200px;
+    margin: 5%;
+}
+.treeRow3{
+    width: 100%;
+    height: 200px;
+    margin: 5%;
+    padding-left: 14%;
+    padding-top: 3%;
+}
+.row1{
+    width: 31%;
+    margin: auto;
+    float: left;
+    padding-left: 0%;
+}
+.row2{
+    width: 30%;
+    margin: auto;
+    float: left;
+    padding-left: 0%;
+}
+.row3{
+    width: 31%;
+    margin: auto;
+    float: left;
+    padding-left: 0%;
+}
+.nameBoxRow2{
+    padding-left: 3%;
